@@ -1,0 +1,1364 @@
+{
+    "topics": [
+        {
+            "id": "champions_league",
+            "name": "دوري أبطال أوروبا 🏆",
+            "questions": [
+                {
+                    "id": "ucl_1",
+                    "text": "ريال مدريد يتصدر القائمة، كم لقباً حقق؟",
+                    "options": [
+                        "13 لقباً",
+                        "15 لقباً",
+                        "10 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_2",
+                    "text": "رونالدو الهداف التاريخي، كم هدفاً سجل؟",
+                    "options": [
+                        "120 هدفاً",
+                        "140 هدفاً",
+                        "100 هدف"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_3",
+                    "text": "ميسي فاز بالكرة الذهبية 8 مرات، كم منها مع باريس؟",
+                    "options": [
+                        "كرة واحدة",
+                        "كرتان",
+                        "ولا كرة"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "hard",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_4",
+                    "text": "بايرن ميونخ سحق برشلونة 8-2، في أي عام؟",
+                    "options": [
+                        "2018",
+                        "2020",
+                        "2022"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_5",
+                    "text": "كم لقباً حقق المدرب أنشيلوتي (الرقم القياسي)؟",
+                    "options": [
+                        "3 ألقاب",
+                        "4 ألقاب",
+                        "5 ألقاب"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_6",
+                    "text": "ميلان هو الثاني تاريخياً، كم رصيده من الألقاب؟",
+                    "options": [
+                        "5 ألقاب",
+                        "7 ألقاب",
+                        "9 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_7",
+                    "text": "أسرع هدف في النهائي سجله مالديني، بعد كم ثانية؟",
+                    "options": [
+                        "51 ثانية",
+                        "90 ثانية",
+                        "30 ثانية"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "hard",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_8",
+                    "text": "كم نهائياً خسرها يوفنتوس (الرقم القياسي السلبي)؟",
+                    "options": [
+                        "5 نهائيات",
+                        "7 نهائيات",
+                        "9 نهائيات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_9",
+                    "text": "كم فريقاً إنجليزياً توج باللقب تاريخياً؟",
+                    "options": [
+                        "4 أندية",
+                        "6 أندية",
+                        "3 أندية"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ucl_10",
+                    "text": "كم هدفاً سجل رونالدو في موسم واحد (2014)؟",
+                    "options": [
+                        "15 هدفاً",
+                        "17 هدفاً",
+                        "19 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "champions_league",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "world_cup",
+            "name": "كأس العالم 🌍",
+            "questions": [
+                {
+                    "id": "wc_1",
+                    "text": "البرازيل تتصدر بـ 5 ألقاب، متى كان آخر لقب؟",
+                    "options": [
+                        "1994",
+                        "1998",
+                        "2002"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "easy",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_2",
+                    "text": "كلوزه الهداف التاريخي، كم هدفاً في رصيده؟",
+                    "options": [
+                        "15 هدفاً",
+                        "16 هدفاً",
+                        "17 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_3",
+                    "text": "كم ركلة جزاء سجلت الأرجنتين في مونديال 2022؟",
+                    "options": [
+                        "3 ركلات",
+                        "5 ركلات",
+                        "7 ركلات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_4",
+                    "text": "المغرب أول عربي للمربع الذهبي، من أقصى في الـ 8؟",
+                    "options": [
+                        "إسبانيا",
+                        "البرتغال",
+                        "بلجيكا"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_5",
+                    "text": "كم هدفاً سجل بيليه في نهائيات كأس العالم؟",
+                    "options": [
+                        "10 أهداف",
+                        "12 هدفاً",
+                        "15 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_6",
+                    "text": "ما هو أكبر فوز في تاريخ المونديال (المجر ضد..)؟",
+                    "options": [
+                        "السلفادور 10-1",
+                        "كوريا 9-0",
+                        "زائير 8-0"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "easy",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_7",
+                    "text": "كم مرة استضافت البرازيل البطولة على أرضها؟",
+                    "options": [
+                        "مرة واحدة",
+                        "مرتين",
+                        "3 مرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_8",
+                    "text": "الفرنسي فونتين سجل رقماً قياسياً بموسم واحد، كم؟",
+                    "options": [
+                        "10 أهداف",
+                        "13 هدفاً",
+                        "15 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_9",
+                    "text": "كم لقباً حقق القيصر بيكنباور (لاعباً ومدرباً)؟",
+                    "options": [
+                        "لقبان",
+                        "3 ألقاب",
+                        "لقب واحد"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "easy",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "wc_10",
+                    "text": "نهائي 2022 انتهى بالتعادل، كم كانت النتيجة؟",
+                    "options": [
+                        "2-2",
+                        "3-3",
+                        "1-1"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "world_cup",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "saudi_league",
+            "name": "دوري روشن 🇸🇦",
+            "questions": [
+                {
+                    "id": "sl_1",
+                    "text": "ماجد عبدالله الهداف التاريخي، كم هدفاً سجل؟",
+                    "options": [
+                        "170 هدفاً",
+                        "189 هدفاً",
+                        "200 هدف"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_2",
+                    "text": "حمدالله حطم الرقم القياسي بموسم واحد، كم سجل؟",
+                    "options": [
+                        "30 هدفاً",
+                        "34 هدفاً",
+                        "35 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_3",
+                    "text": "كم هدفاً سجل رونالدو في موسمه الأول الكامل؟",
+                    "options": [
+                        "30 هدفاً",
+                        "35 هدفاً",
+                        "40 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_4",
+                    "text": "الهلال حقق أطول سلسلة انتصارات عالمية، كم وصل؟",
+                    "options": [
+                        "25 فوزاً",
+                        "34 فوزاً",
+                        "40 فوزاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_5",
+                    "text": "كم مرة توج الهلال بلقب الدوري (الرقم القياسي)؟",
+                    "options": [
+                        "15 مرة",
+                        "19 مرة",
+                        "21 مرة"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_6",
+                    "text": "كم عدد أجندب الفريق الواحد المسموح به حالياً؟",
+                    "options": [
+                        "7 لاعبين",
+                        "8 لاعبين",
+                        "10 لاعبين"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "hard",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_7",
+                    "text": "ناصر الشمراني حقق هداف الدوري، كم مرة؟",
+                    "options": [
+                        "3 مرات",
+                        "5 مرات",
+                        "7 مرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_8",
+                    "text": "ما هو أكبر حضور جماهيري في ملعب الجوهرة؟",
+                    "options": [
+                        "50 ألفاً",
+                        "60 ألفاً",
+                        "62 ألفاً"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_9",
+                    "text": "كم لقباً يملك النصر في تاريخ الدوري؟",
+                    "options": [
+                        "7 ألقاب",
+                        "9 ألقاب",
+                        "11 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "sl_10",
+                    "text": "أسرع هدف في تاريخ الدوري (حمدان الحمد)، متى؟",
+                    "options": [
+                        "10 ثواني",
+                        "14 ثانية",
+                        "20 ثانية"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "medium",
+                    "topic": "saudi_league",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "asia_cl",
+            "name": "أبطال آسيا 🌏",
+            "questions": [
+                {
+                    "id": "ac_1",
+                    "text": "الهلال الزعيم الآسيوي، كم لقباً في خزائنه؟",
+                    "options": [
+                        "3 ألقاب",
+                        "4 ألقاب",
+                        "5 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_2",
+                    "text": "العين الإماراتي حقق لقب 2024، كم كان غائباً؟",
+                    "options": [
+                        "10 سنوات",
+                        "15 سنة",
+                        "21 سنة"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_3",
+                    "text": "كم هدفاً سجل سفيان رحيمي في نسخة 2024؟",
+                    "options": [
+                        "10 أهداف",
+                        "13 هدفاً",
+                        "15 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_4",
+                    "text": "الاتحاد السعودي حقق اللقب مرتين، في أي عامين؟",
+                    "options": [
+                        "2000-01",
+                        "2004-05",
+                        "2008-09"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_5",
+                    "text": "كم فرقاً سعودياً مختلفاً وصل للنهائي؟",
+                    "options": [
+                        "3 فرق",
+                        "4 فرق",
+                        "5 فرق"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_6",
+                    "text": "كم هدفاً سجل ناصر الشمراني (الهداف التاريخي)؟",
+                    "options": [
+                        "30 هدفاً",
+                        "37 هدفاً",
+                        "45 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_7",
+                    "text": "كم مرة خسر الهلال النهائي في النظام الجديد؟",
+                    "options": [
+                        "مرة",
+                        "مرتين",
+                        "4 مرات"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "easy",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_8",
+                    "text": "ما هو أكبر فوز للاتحاد في نهائي (ضد سيونغنام)؟",
+                    "options": [
+                        "3-0",
+                        "4-1",
+                        "5-0"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_9",
+                    "text": "كم عدد الفرق المشاركة في دوري النخبة الجديد؟",
+                    "options": [
+                        "20 فريقاً",
+                        "24 فريقاً",
+                        "32 فريقاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ac_10",
+                    "text": "كم مرة فازت الأندية اليابانية باللقب؟",
+                    "options": [
+                        "5 مرات",
+                        "7 مرات",
+                        "8 مرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "asia_cl",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "africa_cl",
+            "name": "أبطال أفريقيا 🌍",
+            "questions": [
+                {
+                    "id": "af_1",
+                    "text": "الأهلي ملك أفريقيا، كم لقباً حقق حتى 2024؟",
+                    "options": [
+                        "10 ألقاب",
+                        "12 لقباً",
+                        "14 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_2",
+                    "text": "كم نهائياً متتالياً وصل إليه الأهلي مؤخراً؟",
+                    "options": [
+                        "3 نهائيات",
+                        "5 نهائيات",
+                        "7 نهائيات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_3",
+                    "text": "الزمالك هو الثاني تاريخياً، كم رصيده؟",
+                    "options": [
+                        "5 ألقاب",
+                        "7 ألقاب",
+                        "9 ألقاب"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "easy",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_4",
+                    "text": "كم هدفاً سجل الخطيب في بطولات أفريقيا؟",
+                    "options": [
+                        "20 هدفاً",
+                        "37 هدفاً",
+                        "45 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_5",
+                    "text": "الترجي التونسي حقق اللقب 4 مرات، متى آخرها؟",
+                    "options": [
+                        "2011",
+                        "2018",
+                        "2019"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_6",
+                    "text": "كم لقباً حقق المدرب بيتسو موسيماني؟",
+                    "options": [
+                        "لقبان",
+                        "3 ألقاب",
+                        "4 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_7",
+                    "text": "ما هي أكبر نتيجة في نهائي (الأهلي ضد كايزر)؟",
+                    "options": [
+                        "1-0",
+                        "2-0",
+                        "3-0"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_8",
+                    "text": "كم مرة فاز الوداد المغربي باللقب؟",
+                    "options": [
+                        "مرتين",
+                        "3 مرات",
+                        "4 مرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_9",
+                    "text": "أي دولة تملك أكبر عدد من الألقاب؟",
+                    "options": [
+                        "المغرب",
+                        "مصر",
+                        "تونس"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                },
+                {
+                    "id": "af_10",
+                    "text": "كم لقباً للأهلي في عهد المدرب مانويل جوزيه؟",
+                    "options": [
+                        "3 ألقاب",
+                        "4 ألقاب",
+                        "5 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "africa_cl",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "gulf_cup",
+            "name": "كأس الخليج 🏆",
+            "questions": [
+                {
+                    "id": "gc_1",
+                    "text": "الكويت سيد الخليج بـ 10 ألقاب، متى كان آخرها؟",
+                    "options": [
+                        "2004",
+                        "2010",
+                        "2014"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_2",
+                    "text": "جاسم يعقوب الهداف التاريخي، كم هدفاً سجل؟",
+                    "options": [
+                        "15 هدفاً",
+                        "18 هدفاً",
+                        "21 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_3",
+                    "text": "كم مرة فازت السعودية باللقب؟",
+                    "options": [
+                        "لقبان",
+                        "3 ألقاب",
+                        "5 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_4",
+                    "text": "كم هدفاً سجل ماجد عبدالله في تاريخ الدورات؟",
+                    "options": [
+                        "10 أهداف",
+                        "17 هدفاً",
+                        "20 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_5",
+                    "text": "كم مرة استضافت البحرين البطولة (صاحبة الفكرة)؟",
+                    "options": [
+                        "3 مرات",
+                        "4 مرات",
+                        "5 مرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_6",
+                    "text": "كم هدفاً سجل في مباراة واحدة (الرقم القياسي)؟",
+                    "options": [
+                        "7 أهداف",
+                        "8 أهداف",
+                        "10 أهداف"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_7",
+                    "text": "من هو هداف خليجي 25 في البصرة؟",
+                    "options": [
+                        "أيمن حسين",
+                        "إبراهيم بايش",
+                        "كلاهما"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "easy",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_8",
+                    "text": "كم لقباً يملكه المنتخب القطري؟",
+                    "options": [
+                        "لقبان",
+                        "3 ألقاب",
+                        "4 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_9",
+                    "text": "أي منتخب لم يسبق له الفوز باللقب أبداً؟",
+                    "options": [
+                        "البحرين",
+                        "اليمن",
+                        "عمان"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                },
+                {
+                    "id": "gc_10",
+                    "text": "كم هدفاً سجل بدر المطوع في تاريخه الخليجي؟",
+                    "options": [
+                        "10 أهداف",
+                        "12 هدفاً",
+                        "15 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "gulf_cup",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "copa_america",
+            "name": "كوبا أمريكا 🇦🇲",
+            "questions": [
+                {
+                    "id": "ca_1",
+                    "text": "الأرجنتين حطمت الرقم بـ 16 لقباً، من كان قبلها؟",
+                    "options": [
+                        "البرازيل",
+                        "الأوروغواي",
+                        "تشيلي"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_2",
+                    "text": "كم لقباً حققه ميسي في كوبا أمريكا؟",
+                    "options": [
+                        "لقب واحد",
+                        "لقبان",
+                        "3 ألقاب"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "medium",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_3",
+                    "text": "كم هدفاً سجل ميسي في تاريخ البطولة؟",
+                    "options": [
+                        "10 أهداف",
+                        "14 هدفاً",
+                        "17 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_4",
+                    "text": "البرازيل حققت 9 ألقاب، كم منها على أرضها؟",
+                    "options": [
+                        "3 ألقاب",
+                        "5 ألقاب",
+                        "7 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_5",
+                    "text": "كم لقباً يملك منتخب تشيلي (الجيل الذهبي)؟",
+                    "options": [
+                        "لقب",
+                        "لقبان",
+                        "3 ألقاب"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_6",
+                    "text": "ما هو أكبر عدد من الأهداف للاعب في نسخة؟",
+                    "options": [
+                        "7 أهداف",
+                        "9 أهداف",
+                        "11 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_7",
+                    "text": "كم مرة استضافت الولايات المتحدة البطولة؟",
+                    "options": [
+                        "مرة واحدة",
+                        "مرتين",
+                        "3 مرات"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "easy",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_8",
+                    "text": "من هو اللاعب الأكثر مشاركة في تاريخها؟",
+                    "options": [
+                        "ميسي",
+                        "فيدال",
+                        "نيمار"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "medium",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_9",
+                    "text": "كم هدفاً استقبلت البرازيل في نهائي 2021؟",
+                    "options": [
+                        "صفر",
+                        "هدف واحد",
+                        "هدفان"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ca_10",
+                    "text": "كم لقباً حقق منتخب كولومبيا في تاريخه؟",
+                    "options": [
+                        "لقب واحد",
+                        "لقبان",
+                        "لا شيء"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "medium",
+                    "topic": "copa_america",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "premier_league",
+            "name": "البريميرليغ 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "questions": [
+                {
+                    "id": "pl_1",
+                    "text": "آلان شيرر الهداف التاريخي، كم سجل؟",
+                    "options": [
+                        "200 هدف",
+                        "260 هدفاً",
+                        "300 هدف"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_2",
+                    "text": "مانشستر يونايتد الأكثر تتويجاً، كم لقباً؟",
+                    "options": [
+                        "13 لقباً",
+                        "20 لقباً",
+                        "25 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_3",
+                    "text": "هالاند سجل رقماً قياسياً بموسم واحد، كم؟",
+                    "options": [
+                        "32 هدفاً",
+                        "36 هدفاً",
+                        "40 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_4",
+                    "text": "كم هدفاً سجل محمد صلاح في البريميرليغ؟",
+                    "options": [
+                        "100 هدف",
+                        "+150 هدفاً",
+                        "200 هدف"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_5",
+                    "text": "مانشستر سيتي حقق 4 ألقاب متتالية، متى بدأت؟",
+                    "options": [
+                        "2019",
+                        "2020",
+                        "2021"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_6",
+                    "text": "كم نقطة جمع ليفربول في موسم تتويجه 2020؟",
+                    "options": [
+                        "90 نقطة",
+                        "99 نقطة",
+                        "100 نقطة"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_7",
+                    "text": "ما هو أكبر فوز في تاريخ الدوري (9-0)، كم مرة؟",
+                    "options": [
+                        "مرة",
+                        "مرتين",
+                        "4 مرات"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "easy",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_8",
+                    "text": "كم لقباً حققه السير فيرجسون مع اليونايتد؟",
+                    "options": [
+                        "10 ألقاب",
+                        "13 لقباً",
+                        "15 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_9",
+                    "text": "ما هو أسرع هدف (شين لونغ)، بعد كم ثانية؟",
+                    "options": [
+                        "7 ثواني",
+                        "10 ثواني",
+                        "15 ثانية"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "hard",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                },
+                {
+                    "id": "pl_10",
+                    "text": "كم عدد ألقاب أرسنال في الدوري الإنجليزي؟",
+                    "options": [
+                        "10 ألقاب",
+                        "13 لقباً",
+                        "15 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "premier_league",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "ballon_dor",
+            "name": "الكرة الذهبية 🎈",
+            "questions": [
+                {
+                    "id": "bd_1",
+                    "text": "ميسي يتصدر بـ 8 كرات، كم حقق رونالدو؟",
+                    "options": [
+                        "4 كرات",
+                        "5 كرات",
+                        "6 كرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_2",
+                    "text": "كم لاعباً برازيلياً فاز بها تاريخياً؟",
+                    "options": [
+                        "3 لاعبين",
+                        "4 لاعبين",
+                        "5 لاعبين"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "medium",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_3",
+                    "text": "من هو أصغر لاعب فاز بها (الظاهرة رونالدو)؟",
+                    "options": [
+                        "19 سنة",
+                        "21 سنة",
+                        "23 سنة"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_4",
+                    "text": "كم كرة ذهبية فاز بها الأسطورة مارادونا؟",
+                    "options": [
+                        "كرة",
+                        "كرتان",
+                        "صفر (لم تكن للعالميين)"
+                    ],
+                    "correctIndex": 2,
+                    "difficulty": "easy",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_5",
+                    "text": "كم لاعباً من ريال مدريد فاز بها (الرقم القياسي)؟",
+                    "options": [
+                        "10 لاعبين",
+                        "12 لاعباً",
+                        "8 لاعبين"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_6",
+                    "text": "بنزيما فاز بها 2022، كم كان عمره؟",
+                    "options": [
+                        "30 سنة",
+                        "34 سنة",
+                        "36 سنة"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_7",
+                    "text": "كم مرة فاز بها لاعب من الدوري الإنجليزي؟",
+                    "options": [
+                        "4 مرات",
+                        "6 مرات",
+                        "8 مرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_8",
+                    "text": "من هو اللاعب الذي حل ثانياً خلف ميسي 2023؟",
+                    "options": [
+                        "مبابي",
+                        "هالاند",
+                        "دي بروين"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_9",
+                    "text": "كم كرة ذهبية يملكها كرويف وبلاتيني؟",
+                    "options": [
+                        "كرتان",
+                        "3 كرات",
+                        "4 كرات"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                },
+                {
+                    "id": "bd_10",
+                    "text": "أي عام ألغيت فيه الجائزة بسبب كورونا؟",
+                    "options": [
+                        "2019",
+                        "2020",
+                        "2021"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "ballon_dor",
+                    "usageCount": 0
+                }
+            ]
+        },
+        {
+            "id": "la_liga",
+            "name": "لا ليغا 🇪🇸",
+            "questions": [
+                {
+                    "id": "ll_1",
+                    "text": "ميسي الهداف التاريخي، كم سجل في الليغا؟",
+                    "options": [
+                        "400 هدف",
+                        "474 هدفاً",
+                        "500 هدف"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_2",
+                    "text": "ريال مدريد الأكثر تتويجاً، كم رصيده؟",
+                    "options": [
+                        "30 لقباً",
+                        "36 لقباً",
+                        "40 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_3",
+                    "text": "كم هدفاً سجل رونالدو في الليغا (خلال 9 سنوات)؟",
+                    "options": [
+                        "250 هدفاً",
+                        "311 هدفاً",
+                        "350 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_4",
+                    "text": "كم لقباً حققه برشلونة في الليغا تاريخياً؟",
+                    "options": [
+                        "24 لقباً",
+                        "27 لقباً",
+                        "30 لقباً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_5",
+                    "text": "ما هو الرقم القياسي للنقاط بموسم (الريال و البارسا)؟",
+                    "options": [
+                        "95 نقطة",
+                        "100 نقطة",
+                        "102 نقطة"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_6",
+                    "text": "كم هدفاً سجل ميسي في موسم واحد (2012)؟",
+                    "options": [
+                        "40 هدفاً",
+                        "50 هدفاً",
+                        "55 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_7",
+                    "text": "كم مرة فاز أتلتيكو مدريد بلقب الدوري؟",
+                    "options": [
+                        "9 مرات",
+                        "11 مرة",
+                        "13 مرة"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "easy",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_8",
+                    "text": "كم هدفاً سجل ميسي في مباريات الكلاسيكو؟",
+                    "options": [
+                        "18 هدفاً",
+                        "26 هدفاً",
+                        "30 هدفاً"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "medium",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_9",
+                    "text": "ما هو لقب هداف الدوري الإسباني؟",
+                    "options": [
+                        "بوزكاش",
+                        "بيتشيتشي",
+                        "زامورا"
+                    ],
+                    "correctIndex": 1,
+                    "difficulty": "hard",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                },
+                {
+                    "id": "ll_10",
+                    "text": "كم عدد أهداف زامورا (أفضل حارس)؟",
+                    "options": [
+                        "أقل الأهداف",
+                        "أكثر التصديات",
+                        "الشباك النظيفة"
+                    ],
+                    "correctIndex": 0,
+                    "difficulty": "medium",
+                    "topic": "la_liga",
+                    "usageCount": 0
+                }
+            ]
+        }
+    ]
+}
